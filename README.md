@@ -10,7 +10,7 @@ This repository contains a collection of assignments and documentation related t
 
 ## 📄 Contents
 
-### 1. [**GitHub_Workflow_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/GitHub%20Workflow%20Assignment.docx)
+### 1. [**GitHub_Workflow_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/GitHub%20Workflow%20Assignment.pdf)
 Step-by-step workflow for using GitHub effectively. Covers:
 - Creating and cloning a repository
 - Branch creation and local development
@@ -30,7 +30,7 @@ A comprehensive document covering the foundational concepts of DevOps and DevSec
 
 ---
 
-### 3. [**Packer_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/Packer%20Assignment.docx)
+### 3. [**Packer_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/Packer%20Assignment.pdf)
 An in-depth assignment on HashiCorp Packer, explaining:
 - Packer architecture and core components (builders, provisioners, post-processors)
 - Use cases for Packer in cloud, CI/CD, and secure image creation
@@ -40,7 +40,7 @@ An in-depth assignment on HashiCorp Packer, explaining:
 
 ---
 
-### 4. [**code_coverage.html**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage.html)
+### 4. [**code_coverage.html**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage_assessment.pdf)
 HTML-based code coverage report generated using `coverage.py`. Highlights include:
 - Overall test coverage of the Python codebase
 - Insights into covered and uncovered lines of code
