@@ -40,7 +40,7 @@ An in-depth assignment on HashiCorp Packer, explaining:
 
 ---
 
-### 4. [**code_coverage.html**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage_assessment.pdf)
+### 4. [**code_coverage_assessment.pdf**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage_assessment.pdf)
 HTML-based code coverage report generated using `coverage.py`. Highlights include:
 - Overall test coverage of the Python codebase
 - Insights into covered and uncovered lines of code
