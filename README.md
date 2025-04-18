@@ -10,7 +10,7 @@ This repository contains a collection of assignments and documentation related t
 
 ## 📄 Contents
 
-### 1. [**GitHub_Workflow_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/GitHub%20Workflow%20Assignment.pdf)
+### 1. [**GitHub_Workflow_Assignment**](https://github.com/rashmib23/learn-devsecops/blob/main/GitHub%20Workflow%20Assignment.pdf)
 Step-by-step workflow for using GitHub effectively. Covers:
 - Creating and cloning a repository
 - Branch creation and local development
@@ -20,7 +20,7 @@ Step-by-step workflow for using GitHub effectively. Covers:
 
 ---
 
-### 2. [**DevSecOps_Assessment.pdf**](https://github.com/rashmib23/learn-devsecops/blob/main/Devsecops_Assessment%20.pdf)
+### 2. [**DevSecOps_Assessment**](https://github.com/rashmib23/learn-devsecops/blob/main/Devsecops_Assessment%20.pdf)
 A comprehensive document covering the foundational concepts of DevOps and DevSecOps. Includes:
 - Comparison between DevOps, Agile, and Waterfall methodologies
 - Explanation of CI/CD, Continuous Delivery, and Deployment (with diagrams)
@@ -30,7 +30,7 @@ A comprehensive document covering the foundational concepts of DevOps and DevSec
 
 ---
 
-### 3. [**Packer_Assignment.docx**](https://github.com/rashmib23/learn-devsecops/blob/main/Packer%20Assignment.pdf)
+### 3. [**Packer_Assignment**](https://github.com/rashmib23/learn-devsecops/blob/main/Packer%20Assignment.pdf)
 An in-depth assignment on HashiCorp Packer, explaining:
 - Packer architecture and core components (builders, provisioners, post-processors)
 - Use cases for Packer in cloud, CI/CD, and secure image creation
@@ -40,7 +40,7 @@ An in-depth assignment on HashiCorp Packer, explaining:
 
 ---
 
-### 4. [**code_coverage_assessment.pdf**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage_assessment.pdf)
+### 4. [**code_coverage_assessment**](https://github.com/rashmib23/learn-devsecops/blob/main/code_coverage_assessment.pdf)
 HTML-based code coverage report generated using `coverage.py`. Highlights include:
 - Overall test coverage of the Python codebase
 - Insights into covered and uncovered lines of code
